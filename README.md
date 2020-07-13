@@ -8,5 +8,7 @@
 
 - 💻 React.js, React Native, Node.js, Javascript, TypeScript and **more**.
 - :books: Computer engineering
+- 🚀 BootCamp GoStack 11 - Rocketseat
+
 
 
