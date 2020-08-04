@@ -6,7 +6,7 @@
 - 🚀 BootCamp GoStack 11 - Rocketseat
 - 📫 How to reach me **antonie.dev@gmail.com**
 
-<p align="left"><img src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="20" height="20"/> <img 
+<img 
 <a href="https://twitter.com/@jaspion66" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="@jaspion66" height="20" width="20" /></a>
 <a href="https://linkedin.com/in/antonio-carlos-44b106129" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="antonio-carlos-44b106129" height="20" width="20" /></a>
 <a href="https://stackoverflow.com/13063236/antonio-carlos" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="13063236/antonio-carlos" height="20" width="20" /></a>
