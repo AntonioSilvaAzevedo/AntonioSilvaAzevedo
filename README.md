@@ -1,4 +1,4 @@
-<h1 align="center">Hi 😬, I'm Antonio Carlos</h1>
+<h1 align="center">Hi friends, I'm Antonio Carlos</h1>
 <h3 align="center">A person in love with the web development ecosystem!</h3>
 
 
