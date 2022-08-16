@@ -5,7 +5,7 @@
 
 
 - 📚 Computer engineering
-- 📫 How to reach me **antonie.dev@gmail.com**
+- 📫 How to reach me **antonie.dev@gmail.com | antonioe66@icloud.com**
 
 
 
